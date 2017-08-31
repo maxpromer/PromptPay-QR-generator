@@ -1,0 +1,442 @@
+2017-08-31 11:21:46: <br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+2017-08-31 11:22:35: <br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+2017-08-31 11:25:05: <br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+2017-08-31 11:25:22: <br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+2017-08-31 11:25:32: <br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+2017-08-31 11:26:47: <br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+2017-08-31 11:26:51: <br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+2017-08-31 11:27:04: <br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\frame_5.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_0\mask_37_0.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_1\mask_37_1.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_2\mask_37_2.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_3\mask_37_3.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_4\mask_37_4.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_5\mask_37_5.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_6\mask_37_6.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_7\mask_37_7.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+2017-08-31 11:27:31: <br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+2017-08-31 11:27:47: <br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+2017-08-31 11:32:23: <br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+2017-08-31 11:34:03: <br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+2017-08-31 11:34:33: <br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\Users\Max\Dropbox\htdocs\PromptPay_QR\php\lib\qrmask.php</b> on line <b>155</b><br />
