@@ -1,4 +1,4 @@
-# PromptPay-QR-generate
+# PromptPay-QR-generator
 
 ไลบารี่ใช้สร้าง PromptPay QR สำหรับจ่ายเงินผ่าน QR code รองรับการตั้ง PromptPay ID ทั้งหมายเลขบัตรประจำตัวประชาชน และเบอร์โทรศัพท์
 
