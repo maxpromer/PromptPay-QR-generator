@@ -23,17 +23,21 @@ class PromptPayQR {
 	
 		// format [Fee][Length][Data]
 		$data =  '000201'; // Start
-		$data .= '010211'; // accept recycle
+		$data .= '010211'; // Multiple-use QR Data 
 		
 		// merchant account information
 		$merchantInfo =  '0016A000000677010111'; // application ID
 		
 		// PromptPay ID
-		$merchantInfo .= '01';
 		if (strlen($this->id) == 13) { // ID card
+			$merchantInfo .= '01';
 			$merchantInfo .= '1500' . $this->id;
-		} else if (strlen($this->id) == 10) {
+		} else if (strlen($this->id) == 10) { // Mobile number
+			$merchantInfo .= '01';
 			$merchantInfo .= '130066' . substr($this->id, -9);
+		} else if (strlen($this->id) == 15) { // E Wallet
+			$merchantInfo .= '03';
+			$merchantInfo .= '15' . $this->id;
 		} else {
 			return false;
 		}
